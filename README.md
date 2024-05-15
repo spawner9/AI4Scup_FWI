@@ -1,2 +1,1 @@
-# Self-supervised-D-bar
-Paper code
+Supervised-D-bar
